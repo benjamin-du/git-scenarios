@@ -9,6 +9,3 @@ Add a bugfix for code block 1
 ###############
 code block 2
 ###############
-
-add new feature engineering 
-accuracy score is not 99%
