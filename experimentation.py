@@ -1,3 +1,5 @@
 new_stuff
 
-I am in the process of calculating new features for my model
+I created a new feature
+
+Now I add code to experiment with this feature
