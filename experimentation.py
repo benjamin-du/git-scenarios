@@ -1,4 +1,5 @@
-new_stuff
+# new_stuff <- turns out there was a mistake there
+new_stuff with bug corrected
 
 I created a new feature
 
